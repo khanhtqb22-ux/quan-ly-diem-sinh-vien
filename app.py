@@ -135,4 +135,4 @@ plt.close(fig)
 
 # 9. Thong tin nguoi tao
 st.divider()
-st.caption("Người tạo ứng dụng: [HỌ VÀ TÊN CỦA BẠN] | MSSV: [MÃ SỐ SINH VIÊN]")
+st.caption("Người tạo ứng dụng: [Huỳnh Tấn Khánh] | MSSV: [052208004285]")
